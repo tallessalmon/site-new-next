@@ -21,8 +21,8 @@ export default function Home() {
         </h2>
 
         <p className={styles.description}>
-          Comece editando{' '}
-          <code className={styles.code}>pages/index.js</code>
+          Comece clonando ;) => {' '}
+          <code className={styles.code}>git clone https://github.com/tallessalmon/site-new-next.git .</code>
         </p>
 
         <div className={styles.grid}>
