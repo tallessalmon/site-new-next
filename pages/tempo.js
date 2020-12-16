@@ -1,5 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
+import Link from 'next/link'
+
 function Tempo(props) {
   const dynamicDate = new Date();
   const dynamicDateString = dynamicDate.toGMTString()
@@ -21,16 +23,18 @@ function Tempo(props) {
         <div className={styles.description}>{props.staticDateString} (estático)</div>
 
         <div className={styles.grid}>
-          <a href="/" className={styles.card}>
+          <Link href="/">
+          <a className={styles.card}>
             <h3>Home &rarr;</h3>
             <p>Clique para voltar para a página Inicial..</p>
           </a>
-
-          <a href="/sobre" className={styles.card}>
+          </Link>
+          <Link  href="/sobre">
+          <a className={styles.card}>
             <h3>Sobre &rarr;</h3>
-            <p>Clique para ir para a página "Tempo"</p>
+            <p>Clique para ir para a página "Sobre"</p>
           </a>
-        
+          </Link>
         </div>
       </main>
       <footer className={styles.footer}>
