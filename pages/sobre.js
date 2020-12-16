@@ -6,19 +6,16 @@ export default function Home() {
   return (
     <div className={styles.container,styles.bgimage}>
       <Head>
-        <title>Next JS TESTE</title>
+        <title>Next JS TESTE - Sobre</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <img src="/talles.svg" alt="Talles Salmon" className={styles.logohead}/>
-        <h1 className={styles.title}>
-          Bem vindo ao meu de <a href="https://nextjs.org">Next.js!</a>
-        </h1>
         <p> </p>
-        <h2 className={styles.title}>
+        <h1 className={styles.title}>
           Sobre
-        </h2>
+        </h1>
 
         <p className={styles.description}>
           Meu nome é Talles Salmon, sou Analista de sistemas e recentemente resolvi aprender mais sobre Next.js e esse é o meu primeiro site com base na pagina padrão do next.

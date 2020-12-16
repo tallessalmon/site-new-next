@@ -13,11 +13,11 @@ export default function Home() {
       <main className={styles.main}>
         <img src="/talles.svg" alt="Talles Salmon" className={styles.logohead}/>
         <h1 className={styles.title}>
-          Bem vindo ao meu de <a href="https://nextjs.org">Next.js!</a>
+          Bem vindo ao meu site em <a href="https://nextjs.org">Next.js!</a>
         </h1>
         <p> </p>
         <h2 className={styles.title}>
-          Pagina Home
+          Página Inicial
         </h2>
 
         <p className={styles.description}>
