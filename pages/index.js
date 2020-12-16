@@ -21,8 +21,8 @@ export default function Home() {
         </h2>
 
         <p className={styles.description}>
-          Comece clonando ;) => {' '}
-          <code className={styles.code}>git clone https://github.com/tallessalmon/site-new-next.git .</code>
+          Muito obrigado {' '}
+          <code className={styles.code}><a href="https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw"></a>Filipe Deschamps - ▶</code>
         </p>
 
         <div className={styles.grid}>
