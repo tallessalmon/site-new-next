@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512.0px"
+   height="512.0px"
+   viewBox="0 0 512.0 512.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="talles.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs150">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter134">
+      <feGaussianBlur
+         stdDeviation="2 2"
+         result="fbSourceGraphic"
+         id="feGaussianBlur132" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix136" />
+      <feGaussianBlur
+         id="feGaussianBlur138"
+         stdDeviation="0.01 2"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix140" />
+      <feGaussianBlur
+         id="feGaussianBlur142"
+         stdDeviation="0.01 2"
+         result="fbSourceGraphic"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix144" />
+      <feGaussianBlur
+         id="feGaussianBlur146"
+         stdDeviation="0.01 2"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="79"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid159" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata153">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:92.7857px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#000000;stroke-width:2.31965;filter:url(#filter134)"
+       x="69.155693"
+       y="144.68333"
+       id="text36-1"
+       transform="matrix(7.356302,0,0,6.0212194,-256.7811,-426.22987)"><tspan
+         sodipodi:role="line"
+         id="tspan34-0"
+         x="69.155693"
+         y="144.68333"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:Carlito;fill:#000000;stroke-width:2.31965">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:617.522px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;stroke-width:15.4381"
+       x="218.30974"
+       y="492.04608"
+       id="text36"
+       transform="scale(1.1053188,0.90471635)"><tspan
+         sodipodi:role="line"
+         id="tspan34"
+         x="218.30974"
+         y="492.04608"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:Carlito;fill:#000000;stroke-width:15.4381">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:368.349px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:9.20871"
+       x="165.41257"
+       y="580.27783"
+       id="text40"
+       transform="scale(1.3881876,0.72036373)"><tspan
+         sodipodi:role="line"
+         id="tspan38"
+         x="165.41257"
+         y="580.27783"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:start;text-anchor:start;stroke-width:9.20871"><tspan
+           style="fill:#ff0000;stroke-width:9.20871"
+           id="tspan148">S</tspan></tspan></text>
+  </g>
+</svg>
