@@ -22,7 +22,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Muito obrigado {' '}
-          <code className={styles.code}><a href="https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw"></a>Filipe Deschamps - ▶</code>
+          <code className={styles.code}><a href="https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw">Filipe Deschamps - ▶</a></code>
         </p>
 
         <div className={styles.grid}>
