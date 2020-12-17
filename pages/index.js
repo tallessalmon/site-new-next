@@ -35,7 +35,7 @@ export default function Home() {
           <Link href="/tempo">
           <a className={styles.card}>
             <h3>Tempo &rarr;</h3>
-            <p>Clique para ir para a página "Tempo"</p>
+            <p>Clique para ir para a página "Temp"</p>
           </a>
           </Link>
         </div>
