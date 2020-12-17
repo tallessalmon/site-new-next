@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container,styles.bgimage}>
       <Head>
         <title>Next JS TESTE - SOBRE</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/talles.ico" />
       </Head>
 
       <main className={styles.main}>

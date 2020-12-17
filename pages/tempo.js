@@ -10,7 +10,7 @@ function Tempo(props) {
     <div className={styles.container,styles.bgimage}>
       <Head>
         <title>Next JS TESTE - TEMPO</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/talles.ico" />
       </Head>
 
       <main className={styles.main}>
