@@ -124,6 +124,7 @@
 }
 .bgimage{
   background-image: url("/bg.jpg");
+  background-size: cover;
 }
 
 .paragrafo{
