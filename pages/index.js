@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-      <div className={styles.container,styles.bgimage}>
+      <div className={styles.bgimage}>
       <Head>
         <title>Next JS TESTE</title>
         <link rel="icon" href="/talles.ico" />
@@ -35,7 +35,7 @@ export default function Home() {
           <Link href="/tempo">
           <a className={styles.card}>
             <h3>Tempo &rarr;</h3>
-            <p>Clique para ir para a página "Sobre"</p>
+            <p>Clique para ir para a página "Tempo"</p>
           </a>
           </Link>
         </div>
