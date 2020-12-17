@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-      <div className={styles.bgimage}>
+      <div className={styles.container,styles.bgimage}>
       <Head>
         <title>Next JS TESTE</title>
         <link rel="icon" href="/talles.ico" />
