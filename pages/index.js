@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import styles from '../styles/Home.module.css'
+import NavBar from '../components/NavBar'
 
 export default function Home() {
   return (
@@ -9,7 +10,7 @@ export default function Home() {
         <title>Next JS TESTE</title>
         <link rel="icon" href="/talles.ico" />
       </Head>
-
+      <NavBar />
       <main className={styles.main}>
         <img src="/talles.svg" alt="Talles Salmon" className={styles.logohead}/>
         <h1 className={styles.title}>
