@@ -22,7 +22,7 @@ export default function Page() {
               </center>
             </main>
                <div className={styles.bloco}
-               ><h2>Hello World!!</h2>
+               ><h2 className={styles.paragrafo}>Hello World!!</h2>
                </div>
             </body>
           </div>
