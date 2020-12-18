@@ -21,10 +21,21 @@ export default function Page() {
         </h2>
               </center>
             </main>
-               <div className={styles.bloco}
+               <div className={styles.container}
                ><h2 className={styles.paragrafo}>Hello World!!</h2>
                </div>
             </body>
+            <footer className={styles.footer}>
+        <a
+          href="https://tallessalmon.com.br"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Desenvolvido porㅤ
+          <img src="/talles.svg" alt="Talles Salmon" className={styles.logo} />
+          ㅤ Talles Salmon
+        </a>
+      </footer>
           </div>
   )
 }
