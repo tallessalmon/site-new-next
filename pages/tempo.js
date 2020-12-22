@@ -25,13 +25,14 @@ function Tempo(props) {
         <div className={styles.grid}>
           <Link href="/">
           <a className={styles.card}>
-            <h3>Home &rarr;</h3>
+            <h3>Home &#127968;
+            </h3>
             <p>Clique para voltar para a página Inicial..</p>
           </a>
           </Link>
           <Link  href="/sobre">
           <a className={styles.card}>
-            <h3>Sobre &rarr;</h3>
+            <h3>Sobre &#10068;</h3>
             <p>Clique para ir para a página "Sobre"</p>
           </a>
           </Link>

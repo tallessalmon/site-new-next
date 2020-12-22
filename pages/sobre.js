@@ -24,13 +24,13 @@ export default function Home() {
         <div className={styles.grid}>
         <Link href="/">
           <a className={styles.card}>
-            <h3>Home &rarr;</h3>
+            <h3>Home &#127968;</h3>
             <p>Clique para voltar para a página Inicial..</p>
           </a>
           </Link>
           <Link  href="/tempo">
           <a className={styles.card}>
-            <h3>Tempo &rarr;</h3>
+            <h3>Tempo &#128340;</h3>
             <p>Clique para ir para a página "Tempo"</p>
           </a>
           </Link>

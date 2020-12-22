@@ -28,13 +28,13 @@ export default function Home() {
         <div className={styles.grid}>
           <Link href="/sobre">
           <a className={styles.card}>
-            <h3>Sobre &rarr;</h3>
+            <h3>Sobre &#10068;</h3>
             <p>Clique para ir para a página "Sobre"</p>
           </a>
           </Link>
           <Link href="/tempo">
           <a className={styles.card}>
-            <h3>Tempo &rarr;</h3>
+            <h3>Tempo &#128340;</h3>
             <p>Clique para ir para a página "Tempo"</p>
           </a>
           </Link>
