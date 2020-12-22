@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>Next JS TESTE</title>
         <link rel="icon" href="/talles.ico" />
+        <link rel='manifest' href='/manifest.json' />
       </Head>
       <main className={styles.main}>
         <img src="/talles.svg" alt="Talles Salmon" className={styles.logohead}/>
