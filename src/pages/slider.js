@@ -34,14 +34,38 @@ const Slideshow = () => {
           </div>
           <div className="each-slide">
             <div style={{'backgroundImage': `url(${slideImages[1]})`}}>
-              <span>Slide 2</span>
+            <center>
+              <div className={styles.container}>
+              <img src="/talles.svg" alt="Talles Salmon" className={styles.logohead}/>
+              <h1 className={styles.title}>
+          Bem vindo ao meu site em <a href="https://nextjs.org">Next.js!</a>
+        </h1>
+        <p></p>
+        <h2 className={styles.title}>
+          Página Inicial
+        </h2>
+        <p></p>
+        <Link href="/"><button className={styles.button}>Saiba Mais</button></Link>
+              </div>
+        </center>
             </div>
           </div>
           <div className="each-slide">
             <div style={{'backgroundImage': `url(${slideImages[2]})`}}>
-              <h2>AQUASOLIS</h2><br/>
-              <p>SOLUÇÕES CONSTRUTIVAS</p><br/>
-              <span>Slide 3</span>
+            <center>
+              <div className={styles.container}>
+              <img src="/talles.svg" alt="Talles Salmon" className={styles.logohead}/>
+              <h1 className={styles.title}>
+          AQUASOLIS
+        </h1>
+        <p></p>
+        <h3 className={styles.paragrafo}>
+          SOLUÇÕES CONSTRUTIVAS
+        </h3>
+        <p></p>
+        <Link href="/"><button className={styles.button}>Saiba Mais</button></Link>
+              </div>
+        </center>
             </div>
           </div>
         </Slide>
