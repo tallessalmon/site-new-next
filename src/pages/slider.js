@@ -23,11 +23,11 @@ const Slideshow = () => {
           Bem vindo ao meu site em <a href="https://nextjs.org">Next.js!</a>
         </h1>
         <p></p>
-        <h2 className={styles.title}>
-          Página Inicial
+        <h2 className={styles.paragrafo}>
+          TEMPO
         </h2>
         <p></p>
-        <Link href="/"><button className={styles.button}>Saiba Mais</button></Link>
+        <Link href="/tempo"><button className={styles.button}>Saiba Mais</button></Link>
               </div>
         </center>
             </div>
@@ -41,11 +41,11 @@ const Slideshow = () => {
           Bem vindo ao meu site em <a href="https://nextjs.org">Next.js!</a>
         </h1>
         <p></p>
-        <h2 className={styles.title}>
-          Página Inicial
+        <h2 className={styles.paragrafo}>
+          SOBRE
         </h2>
         <p></p>
-        <Link href="/"><button className={styles.button}>Saiba Mais</button></Link>
+        <Link href="/sobre"><button className={styles.button}>Saiba Mais</button></Link>
               </div>
         </center>
             </div>
@@ -63,7 +63,7 @@ const Slideshow = () => {
           SOLUÇÕES CONSTRUTIVAS
         </h3>
         <p></p>
-        <Link href="/"><button className={styles.button}>Saiba Mais</button></Link>
+        <Link href="http://www.aquasolis.com.br"><button className={styles.button}>Saiba Mais</button></Link>
               </div>
         </center>
             </div>
