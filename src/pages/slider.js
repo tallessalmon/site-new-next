@@ -20,7 +20,7 @@ const Slideshow = () => {
               <div className={styles.container}>
               <img src="/talles.svg" alt="Talles Salmon" className={styles.logohead}/>
               <h1 className={styles.title}>
-          Bem vindo ao meu site em <a href="https://nextjs.org">Next.js!</a>
+          Tempo e Build
         </h1>
         <p></p>
         <h2 className={styles.paragrafo}>
@@ -38,7 +38,7 @@ const Slideshow = () => {
               <div className={styles.container}>
               <img src="/talles.svg" alt="Talles Salmon" className={styles.logohead}/>
               <h1 className={styles.title}>
-          Bem vindo ao meu site em <a href="https://nextjs.org">Next.js!</a>
+          Sobre mim
         </h1>
         <p></p>
         <h2 className={styles.paragrafo}>
@@ -59,9 +59,9 @@ const Slideshow = () => {
           AQUASOLIS
         </h1>
         <p></p>
-        <h3 className={styles.paragrafo}>
+        <h2 className={styles.paragrafo}>
           SOLUÇÕES CONSTRUTIVAS
-        </h3>
+        </h2>
         <p></p>
         <Link href="http://www.aquasolis.com.br"><button className={styles.button}>Saiba Mais</button></Link>
               </div>

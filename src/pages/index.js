@@ -1,47 +1,42 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import styles from '../styles/Home.module.css'
+import Slideshow from './slider'
 
-export default function Home() {
-  return (
-      <div className={styles.container,styles.bgimage}>
-      <Head>
-        <title>Next JS TESTE</title>
-        <link rel="icon" href="/talles.ico" />
-        <link rel='manifest' href='/manifest.json' />
-      </Head>
-      <main className={styles.main}>
-        <img src="/talles.svg" alt="Talles Salmon" className={styles.logohead}/>
-        <h1 className={styles.title}>
-          Bem vindo ao meu site em <a href="https://nextjs.org">Next.js!</a>
-        </h1>
-        <p> </p>
-        <h2 className={styles.title}>
-          Página Inicial
-        </h2>
+export default function Page() {
+  return (<div>
+            <Head>
+              <title>Next JS TESTE</title>
+              <link rel="icon" href="/talles.ico" />
+            </Head>
+            <body>
+            <Slideshow />
 
-        <p className={styles.description}>
-          Muito obrigado {' '}
-          <code className={styles.code}><a href="https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw">Filipe Deschamps-▶</a></code>
-        </p>
+               <div className={styles.containerbloco}
+               ><h2>Hello World!!</h2>
+              <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper orci et massa laoreet convallis. Nunc eget lacus quis est consectetur imperdiet. Etiam tristique maximus metus, eu hendrerit orci. Cras vulputate libero sapien, nec tincidunt nisl ultricies eget. Vestibulum faucibus felis eget efficitur interdum. Ut et nunc non turpis maximus vestibulum sed non neque. Nullam vitae enim ut enim viverra interdum ac ac est. Vivamus et tellus justo. Aenean ante est, porttitor at odio quis, fermentum semper erat. Integer sagittis nunc quis ornare efficitur. Nulla ac neque sit amet tellus placerat mollis ac a leo.</p>
 
-        <div className={styles.grid}>
-          <Link href="/sobre">
-          <a className={styles.card}>
-            <h3>Sobre &#10068;</h3>
-            <p>Clique para ir para a página "Sobre"</p>
-          </a>
-          </Link>
-          <Link href="/tempo">
-          <a className={styles.card}>
-            <h3>Tempo &#128340;</h3>
-            <p>Clique para ir para a página "Tempo"</p>
-          </a>
-          </Link>
-        </div>
-      </main>
+              <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper orci et massa laoreet convallis. Nunc eget lacus quis est consectetur imperdiet. Etiam tristique maximus metus, eu hendrerit orci. Cras vulputate libero sapien, nec tincidunt nisl ultricies eget. Vestibulum faucibus felis eget efficitur interdum. Ut et nunc non turpis maximus vestibulum sed non neque. Nullam vitae enim ut enim viverra interdum ac ac est. Vivamus et tellus justo. Aenean ante est, porttitor at odio quis, fermentum semper erat. Integer sagittis nunc quis ornare efficitur. Nulla ac neque sit amet tellus placerat mollis ac a leo.</p>
+              <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper orci et massa laoreet convallis. Nunc eget lacus quis est consectetur imperdiet. Etiam tristique maximus metus, eu hendrerit orci. Cras vulputate libero sapien, nec tincidunt nisl ultricies eget. Vestibulum faucibus felis eget efficitur interdum. Ut et nunc non turpis maximus vestibulum sed non neque. Nullam vitae enim ut enim viverra interdum ac ac est. Vivamus et tellus justo. Aenean ante est, porttitor at odio quis, fermentum semper erat. Integer sagittis nunc quis ornare efficitur. Nulla ac neque sit amet tellus placerat mollis ac a leo.</p>
+              <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper orci et massa laoreet convallis. Nunc eget lacus quis est consectetur imperdiet. Etiam tristique maximus metus, eu hendrerit orci. Cras vulputate libero sapien, nec tincidunt nisl ultricies eget. Vestibulum faucibus felis eget efficitur interdum. Ut et nunc non turpis maximus vestibulum sed non neque. Nullam vitae enim ut enim viverra interdum ac ac est. Vivamus et tellus justo. Aenean ante est, porttitor at odio quis, fermentum semper erat. Integer sagittis nunc quis ornare efficitur. Nulla ac neque sit amet tellus placerat mollis ac a leo.</p>
+              <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper orci et massa laoreet convallis. Nunc eget lacus quis est consectetur imperdiet. Etiam tristique maximus metus, eu hendrerit orci. Cras vulputate libero sapien, nec tincidunt nisl ultricies eget. Vestibulum faucibus felis eget efficitur interdum. Ut et nunc non turpis maximus vestibulum sed non neque. Nullam vitae enim ut enim viverra interdum ac ac est. Vivamus et tellus justo. Aenean ante est, porttitor at odio quis, fermentum semper erat. Integer sagittis nunc quis ornare efficitur. Nulla ac neque sit amet tellus placerat mollis ac a leo.</p>
+               </div>
+               <div className={styles.bgblack}>
+               <div className={styles.container2}>
+                 <div>
+                 <h2>Hello World!!</h2>
+              <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper orci et massa laoreet convallis. Nunc eget lacus quis est consectetur imperdiet. Etiam tristique maximus metus, eu hendrerit orci. Cras vulputate libero sapien, nec tincidunt nisl ultricies eget. Vestibulum faucibus felis eget efficitur interdum. Ut et nunc non turpis maximus vestibulum sed non neque. Nullam vitae enim ut enim viverra interdum ac ac est. Vivamus et tellus justo. Aenean ante est, porttitor at odio quis, fermentum semper erat. Integer sagittis nunc quis ornare efficitur. Nulla ac neque sit amet tellus placerat mollis ac a leo.</p>
 
-      <footer className={styles.footer}>
+              <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper orci et massa laoreet convallis. Nunc eget lacus quis est consectetur imperdiet. Etiam tristique maximus metus, eu hendrerit orci. Cras vulputate libero sapien, nec tincidunt nisl ultricies eget. Vestibulum faucibus felis eget efficitur interdum. Ut et nunc non turpis maximus vestibulum sed non neque. Nullam vitae enim ut enim viverra interdum ac ac est. Vivamus et tellus justo. Aenean ante est, porttitor at odio quis, fermentum semper erat. Integer sagittis nunc quis ornare efficitur. Nulla ac neque sit amet tellus placerat mollis ac a leo.</p>
+              <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper orci et massa laoreet convallis. Nunc eget lacus quis est consectetur imperdiet. Etiam tristique maximus metus, eu hendrerit orci. Cras vulputate libero sapien, nec tincidunt nisl ultricies eget. Vestibulum faucibus felis eget efficitur interdum. Ut et nunc non turpis maximus vestibulum sed non neque. Nullam vitae enim ut enim viverra interdum ac ac est. Vivamus et tellus justo. Aenean ante est, porttitor at odio quis, fermentum semper erat. Integer sagittis nunc quis ornare efficitur. Nulla ac neque sit amet tellus placerat mollis ac a leo.</p>
+              <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper orci et massa laoreet convallis. Nunc eget lacus quis est consectetur imperdiet. Etiam tristique maximus metus, eu hendrerit orci. Cras vulputate libero sapien, nec tincidunt nisl ultricies eget. Vestibulum faucibus felis eget efficitur interdum. Ut et nunc non turpis maximus vestibulum sed non neque. Nullam vitae enim ut enim viverra interdum ac ac est. Vivamus et tellus justo. Aenean ante est, porttitor at odio quis, fermentum semper erat. Integer sagittis nunc quis ornare efficitur. Nulla ac neque sit amet tellus placerat mollis ac a leo.</p>
+              <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper orci et massa laoreet convallis. Nunc eget lacus quis est consectetur imperdiet. Etiam tristique maximus metus, eu hendrerit orci. Cras vulputate libero sapien, nec tincidunt nisl ultricies eget. Vestibulum faucibus felis eget efficitur interdum. Ut et nunc non turpis maximus vestibulum sed non neque. Nullam vitae enim ut enim viverra interdum ac ac est. Vivamus et tellus justo. Aenean ante est, porttitor at odio quis, fermentum semper erat. Integer sagittis nunc quis ornare efficitur. Nulla ac neque sit amet tellus placerat mollis ac a leo.</p>
+
+                 </div>
+               </div>
+               </div>
+            </body>
+            <footer className={styles.footer}>
         <a
           href="https://tallessalmon.com.br"
           target="_blank"
@@ -52,6 +47,6 @@ export default function Home() {
           ㅤ Talles Salmon
         </a>
       </footer>
-    </div>
+          </div>
   )
 }
