@@ -95,44 +95,41 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g28">
-      <text
-         transform="matrix(5.5194524,0,0,4.5177365,-153.10188,-237.5496)"
-         id="text36-1"
-         y="144.68333"
+    <text
+       xml:space="preserve"
+       style="font-size:92.78569794px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#000000;stroke-width:2.31964993;filter:url(#filter134)"
+       x="69.155693"
+       y="144.68333"
+       id="text36-1"
+       transform="matrix(5.5194524,0,0,4.5177365,-153.10188,-237.5496)"><tspan
+         sodipodi:role="line"
+         id="tspan34-0"
          x="69.155693"
-         style="font-size:92.78569794px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#000000;stroke-width:2.31964993;filter:url(#filter134)"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:Carlito;fill:#000000;stroke-width:2.31964993"
-           y="144.68333"
-           x="69.155693"
-           id="tspan34-0"
-           sodipodi:role="line">T</tspan></text>
-      <text
-         transform="scale(1.1053188,0.90471635)"
-         id="text36"
-         y="460.09784"
+         y="144.68333"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#000000;stroke-width:2.31964993">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:463.32833862px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;stroke-width:11.58324623"
+       x="199.59042"
+       y="460.09784"
+       id="text36"
+       transform="scale(1.1053188,0.90471635)"><tspan
+         sodipodi:role="line"
+         id="tspan34"
          x="199.59042"
-         style="font-size:463.32833862px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;stroke-width:11.58324623"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#000000;stroke-width:11.58324623"
-           y="460.09784"
-           x="199.59042"
-           id="tspan34"
-           sodipodi:role="line">T</tspan></text>
-      <text
-         transform="scale(1.3881876,0.72036373)"
-         id="text40"
-         y="549.56476"
+         y="460.09784"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#000000;stroke-width:11.58324623">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:276.37319946px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:6.90931892"
+       x="152.60815"
+       y="549.56476"
+       id="text40"
+       transform="scale(1.3881876,0.72036373)"><tspan
+         sodipodi:role="line"
+         id="tspan38"
          x="152.60815"
-         style="font-size:276.37319946px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:6.90931892"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;text-anchor:start;fill:#ff0000;stroke-width:6.90931892"
-           y="549.56476"
-           x="152.60815"
-           id="tspan38"
-           sodipodi:role="line">S</tspan></text>
-    </g>
+         y="549.56476"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;text-anchor:start;fill:#ff0000;stroke-width:6.90931892">S</tspan></text>
   </g>
 </svg>
