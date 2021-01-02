@@ -1,7 +1,8 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import styles from '../styles/Home.module.css'
-import Slideshow from './slider'
+import Slideshow from '../components/slider/slider'
+import Footer from '../components/footer/footer'
 
 export default function Page() {
   return (<div>
@@ -36,17 +37,7 @@ export default function Page() {
                </div>
                </div>
             </body>
-            <footer className={styles.footer}>
-        <a
-          href="https://tallessalmon.com.br"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Desenvolvido porㅤ
-          <img src="/talles.svg" alt="Talles Salmon" className={styles.logo} />
-          ㅤ Talles Salmon
-        </a>
-      </footer>
+            <Footer />
           </div>
   )
 }
