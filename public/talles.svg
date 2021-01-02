@@ -13,7 +13,7 @@
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="talles.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
   <defs
      id="defs150">
     <filter
@@ -63,17 +63,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="400"
-     inkscape:cy="560"
+     inkscape:zoom="0.7"
+     inkscape:cx="204.17151"
+     inkscape:cy="221.94538"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="705"
-     inkscape:window-x="-8"
-     inkscape:window-y="79"
+     inkscape:window-height="723"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -87,7 +87,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -95,43 +95,44 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <text
-       xml:space="preserve"
-       style="font-size:92.7857px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#000000;stroke-width:2.31965;filter:url(#filter134)"
-       x="69.155693"
-       y="144.68333"
-       id="text36-1"
-       transform="matrix(7.356302,0,0,6.0212194,-256.7811,-426.22987)"><tspan
-         sodipodi:role="line"
-         id="tspan34-0"
-         x="69.155693"
+    <g
+       id="g28">
+      <text
+         transform="matrix(5.5194524,0,0,4.5177365,-153.10188,-237.5496)"
+         id="text36-1"
          y="144.68333"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:Carlito;fill:#000000;stroke-width:2.31965">T</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:617.522px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;stroke-width:15.4381"
-       x="218.30974"
-       y="492.04608"
-       id="text36"
-       transform="scale(1.1053188,0.90471635)"><tspan
-         sodipodi:role="line"
-         id="tspan34"
-         x="218.30974"
-         y="492.04608"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:Carlito;fill:#000000;stroke-width:15.4381">T</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:368.349px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:9.20871"
-       x="165.41257"
-       y="580.27783"
-       id="text40"
-       transform="scale(1.3881876,0.72036373)"><tspan
-         sodipodi:role="line"
-         id="tspan38"
-         x="165.41257"
-         y="580.27783"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:Carlito;text-align:start;text-anchor:start;stroke-width:9.20871"><tspan
-           style="fill:#ff0000;stroke-width:9.20871"
-           id="tspan148">S</tspan></tspan></text>
+         x="69.155693"
+         style="font-size:92.78569794px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#000000;stroke-width:2.31964993;filter:url(#filter134)"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Carlito;-inkscape-font-specification:Carlito;fill:#000000;stroke-width:2.31964993"
+           y="144.68333"
+           x="69.155693"
+           id="tspan34-0"
+           sodipodi:role="line">T</tspan></text>
+      <text
+         transform="scale(1.1053188,0.90471635)"
+         id="text36"
+         y="460.09784"
+         x="199.59042"
+         style="font-size:463.32833862px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#999999;stroke-width:11.58324623"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;fill:#000000;stroke-width:11.58324623"
+           y="460.09784"
+           x="199.59042"
+           id="tspan34"
+           sodipodi:role="line">T</tspan></text>
+      <text
+         transform="scale(1.3881876,0.72036373)"
+         id="text40"
+         y="549.56476"
+         x="152.60815"
+         style="font-size:276.37319946px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;stroke-width:6.90931892"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AnjaliOldLipi;-inkscape-font-specification:AnjaliOldLipi;text-align:start;text-anchor:start;fill:#ff0000;stroke-width:6.90931892"
+           y="549.56476"
+           x="152.60815"
+           id="tspan38"
+           sodipodi:role="line">S</tspan></text>
+    </g>
   </g>
 </svg>
